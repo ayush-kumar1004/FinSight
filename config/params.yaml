@@ -1,0 +1,85 @@
+# FinSight — configuration
+# One place for every knob. Changing values here regenerates a different
+# but still internally-consistent dataset (the random seed keeps it reproducible).
+
+seed: 42
+
+# ---- entity counts ----
+counts:
+  customers: 1500
+  merchants: 60
+  campaigns: 30
+  transactions: 22000
+  interactions: 12000
+
+# ---- date window (inclusive) ----
+dates:
+  start: "2025-08-01"
+  end: "2026-07-31"
+
+# ---- reference/categorical vocabularies ----
+categories:
+  - Dining
+  - Travel
+  - Fuel
+  - Shopping
+  - Entertainment
+  - Grocery
+  - Electronics
+  - Healthcare
+  - Lifestyle
+
+income_bands:   [Low, Lower-Mid, Mid, Upper-Mid, High]
+employment:     [Salaried, Self-Employed, Student, Retired]
+account_types:  [Basic, Premium, Wealth]
+credit_bands:   [Poor, Fair, Good, Excellent]
+channels:       [App, Web, Branch, Call]
+merchant_sizes: [Small, Medium, Large]
+genders:        [Male, Female, Other]
+
+# ---- B1: income band -> transaction amount (log-normal mean, INR) ----
+# Higher band => higher typical spend. sigma is shared spread.
+income_amount:
+  Low:        {mu: 6.4, sigma: 0.55}
+  Lower-Mid:  {mu: 6.8, sigma: 0.55}
+  Mid:        {mu: 7.2, sigma: 0.55}
+  Upper-Mid:  {mu: 7.6, sigma: 0.55}
+  High:       {mu: 8.1, sigma: 0.55}
+
+# ---- B3: campaign latent quality -> base redemption propensity ----
+campaign_quality:
+  Strong:  {weight: 0.30, base_redemption: 0.12}
+  Average: {weight: 0.45, base_redemption: 0.06}
+  Weak:    {weight: 0.25, base_redemption: 0.025}
+
+# ---- B4: customer engagement persona -> funnel multipliers ----
+engagement_persona:
+  Engaged: {weight: 0.25, click: 0.55, engage: 0.70, redeem: 0.55}
+  Normal:  {weight: 0.55, click: 0.30, engage: 0.45, redeem: 0.35}
+  Dormant: {weight: 0.20, click: 0.08, engage: 0.20, redeem: 0.15}
+
+# ---- B2: strength of a customer's preferred-category pull ----
+# Probability weight added to the preferred category when sampling a txn category.
+category_preference_boost: 3.0
+
+# ---- B5: seasonality (multiplicative demand by calendar month, 1..12) ----
+# Travel peaks in vacation months; Shopping/Electronics peak around a festival month (Oct).
+seasonality:
+  Travel:       {5: 1.6, 6: 1.7, 12: 1.5, 1: 1.4}
+  Shopping:     {10: 1.8, 11: 1.4, 12: 1.3}
+  Electronics:  {10: 1.7, 11: 1.3}
+
+# ---- corruption pass: defect injection rates (small + realistic) ----
+defects:
+  missing_income_frac: 0.025      # blank income_band in customers
+  missing_city_frac:   0.02       # blank city in transactions
+  duplicate_txn_rows:  100        # exact duplicate transaction rows
+  orphan_fk_rows:      120        # transactions pointing to non-existent merchant/campaign
+  invalid_category_rows: 20       # merchants with malformed category strings
+  negative_amount_rows: 15        # negative transaction amounts
+  extreme_value_rows:   25        # absurdly large amounts (kept, flagged later)
+  bad_date_rows:        10        # transaction dates outside the valid window
+
+# ---- ROI assumption for campaign transactions ----
+# Share of campaign transaction amount treated as margin/revenue contribution.
+margin_rate: 0.15

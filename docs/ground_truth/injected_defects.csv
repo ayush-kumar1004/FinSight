@@ -1,0 +1,768 @@
+dataset,defect_type,record_key,detail
+customers,missing_value,C00548,income_band set null
+customers,missing_value,C00668,income_band set null
+customers,missing_value,C00997,income_band set null
+customers,missing_value,C01138,income_band set null
+customers,missing_value,C00420,income_band set null
+customers,missing_value,C00405,income_band set null
+customers,missing_value,C01112,income_band set null
+customers,missing_value,C00880,income_band set null
+customers,missing_value,C00923,income_band set null
+customers,missing_value,C00491,income_band set null
+customers,missing_value,C01454,income_band set null
+customers,missing_value,C00868,income_band set null
+customers,missing_value,C00694,income_band set null
+customers,missing_value,C01179,income_band set null
+customers,missing_value,C00213,income_band set null
+customers,missing_value,C00282,income_band set null
+customers,missing_value,C00841,income_band set null
+customers,missing_value,C01326,income_band set null
+customers,missing_value,C00498,income_band set null
+customers,missing_value,C01226,income_band set null
+customers,missing_value,C00043,income_band set null
+customers,missing_value,C01025,income_band set null
+customers,missing_value,C00050,income_band set null
+customers,missing_value,C00482,income_band set null
+customers,missing_value,C00454,income_band set null
+customers,missing_value,C00034,income_band set null
+customers,missing_value,C00879,income_band set null
+customers,missing_value,C00490,income_band set null
+customers,missing_value,C00812,income_band set null
+customers,missing_value,C01057,income_band set null
+customers,missing_value,C00678,income_band set null
+customers,missing_value,C00431,income_band set null
+customers,missing_value,C01002,income_band set null
+customers,missing_value,C00132,income_band set null
+customers,missing_value,C00663,income_band set null
+customers,missing_value,C01185,income_band set null
+customers,missing_value,C00865,income_band set null
+transactions,missing_value,T00014986,city set null
+transactions,missing_value,T00000525,city set null
+transactions,missing_value,T00001337,city set null
+transactions,missing_value,T00008610,city set null
+transactions,missing_value,T00016155,city set null
+transactions,missing_value,T00018285,city set null
+transactions,missing_value,T00010531,city set null
+transactions,missing_value,T00009725,city set null
+transactions,missing_value,T00007767,city set null
+transactions,missing_value,T00002767,city set null
+transactions,missing_value,T00002357,city set null
+transactions,missing_value,T00020111,city set null
+transactions,missing_value,T00001262,city set null
+transactions,missing_value,T00006624,city set null
+transactions,missing_value,T00020536,city set null
+transactions,missing_value,T00009568,city set null
+transactions,missing_value,T00006578,city set null
+transactions,missing_value,T00013321,city set null
+transactions,missing_value,T00020955,city set null
+transactions,missing_value,T00010387,city set null
+transactions,missing_value,T00003453,city set null
+transactions,missing_value,T00018353,city set null
+transactions,missing_value,T00012572,city set null
+transactions,missing_value,T00010077,city set null
+transactions,missing_value,T00001249,city set null
+transactions,missing_value,T00007535,city set null
+transactions,missing_value,T00021468,city set null
+transactions,missing_value,T00008449,city set null
+transactions,missing_value,T00005074,city set null
+transactions,missing_value,T00019956,city set null
+transactions,missing_value,T00008327,city set null
+transactions,missing_value,T00019427,city set null
+transactions,missing_value,T00003447,city set null
+transactions,missing_value,T00005242,city set null
+transactions,missing_value,T00010732,city set null
+transactions,missing_value,T00005293,city set null
+transactions,missing_value,T00018013,city set null
+transactions,missing_value,T00011153,city set null
+transactions,missing_value,T00002159,city set null
+transactions,missing_value,T00001653,city set null
+transactions,missing_value,T00021200,city set null
+transactions,missing_value,T00003903,city set null
+transactions,missing_value,T00016451,city set null
+transactions,missing_value,T00017477,city set null
+transactions,missing_value,T00012373,city set null
+transactions,missing_value,T00018810,city set null
+transactions,missing_value,T00015496,city set null
+transactions,missing_value,T00014639,city set null
+transactions,missing_value,T00011470,city set null
+transactions,missing_value,T00007922,city set null
+transactions,missing_value,T00001291,city set null
+transactions,missing_value,T00010504,city set null
+transactions,missing_value,T00011677,city set null
+transactions,missing_value,T00017201,city set null
+transactions,missing_value,T00007425,city set null
+transactions,missing_value,T00020142,city set null
+transactions,missing_value,T00008085,city set null
+transactions,missing_value,T00011245,city set null
+transactions,missing_value,T00018264,city set null
+transactions,missing_value,T00015561,city set null
+transactions,missing_value,T00005711,city set null
+transactions,missing_value,T00001754,city set null
+transactions,missing_value,T00015912,city set null
+transactions,missing_value,T00019406,city set null
+transactions,missing_value,T00003950,city set null
+transactions,missing_value,T00010042,city set null
+transactions,missing_value,T00004882,city set null
+transactions,missing_value,T00000855,city set null
+transactions,missing_value,T00012268,city set null
+transactions,missing_value,T00010031,city set null
+transactions,missing_value,T00009611,city set null
+transactions,missing_value,T00013440,city set null
+transactions,missing_value,T00017586,city set null
+transactions,missing_value,T00006542,city set null
+transactions,missing_value,T00014507,city set null
+transactions,missing_value,T00000160,city set null
+transactions,missing_value,T00011326,city set null
+transactions,missing_value,T00008142,city set null
+transactions,missing_value,T00001389,city set null
+transactions,missing_value,T00021818,city set null
+transactions,missing_value,T00018621,city set null
+transactions,missing_value,T00002377,city set null
+transactions,missing_value,T00013677,city set null
+transactions,missing_value,T00018595,city set null
+transactions,missing_value,T00019845,city set null
+transactions,missing_value,T00018655,city set null
+transactions,missing_value,T00009660,city set null
+transactions,missing_value,T00000435,city set null
+transactions,missing_value,T00019597,city set null
+transactions,missing_value,T00010285,city set null
+transactions,missing_value,T00005672,city set null
+transactions,missing_value,T00014261,city set null
+transactions,missing_value,T00006297,city set null
+transactions,missing_value,T00016337,city set null
+transactions,missing_value,T00009597,city set null
+transactions,missing_value,T00002182,city set null
+transactions,missing_value,T00014141,city set null
+transactions,missing_value,T00016265,city set null
+transactions,missing_value,T00011780,city set null
+transactions,missing_value,T00003369,city set null
+transactions,missing_value,T00020517,city set null
+transactions,missing_value,T00007338,city set null
+transactions,missing_value,T00014719,city set null
+transactions,missing_value,T00014788,city set null
+transactions,missing_value,T00011109,city set null
+transactions,missing_value,T00014140,city set null
+transactions,missing_value,T00009405,city set null
+transactions,missing_value,T00002430,city set null
+transactions,missing_value,T00006011,city set null
+transactions,missing_value,T00013533,city set null
+transactions,missing_value,T00011151,city set null
+transactions,missing_value,T00011106,city set null
+transactions,missing_value,T00017319,city set null
+transactions,missing_value,T00005389,city set null
+transactions,missing_value,T00012083,city set null
+transactions,missing_value,T00004633,city set null
+transactions,missing_value,T00019700,city set null
+transactions,missing_value,T00010937,city set null
+transactions,missing_value,T00020151,city set null
+transactions,missing_value,T00004480,city set null
+transactions,missing_value,T00012573,city set null
+transactions,missing_value,T00021249,city set null
+transactions,missing_value,T00001164,city set null
+transactions,missing_value,T00021258,city set null
+transactions,missing_value,T00018040,city set null
+transactions,missing_value,T00010084,city set null
+transactions,missing_value,T00015050,city set null
+transactions,missing_value,T00000082,city set null
+transactions,missing_value,T00019293,city set null
+transactions,missing_value,T00006453,city set null
+transactions,missing_value,T00012675,city set null
+transactions,missing_value,T00016577,city set null
+transactions,missing_value,T00001509,city set null
+transactions,missing_value,T00015302,city set null
+transactions,missing_value,T00003616,city set null
+transactions,missing_value,T00018626,city set null
+transactions,missing_value,T00013761,city set null
+transactions,missing_value,T00014192,city set null
+transactions,missing_value,T00000769,city set null
+transactions,missing_value,T00011685,city set null
+transactions,missing_value,T00012306,city set null
+transactions,missing_value,T00005272,city set null
+transactions,missing_value,T00021757,city set null
+transactions,missing_value,T00010354,city set null
+transactions,missing_value,T00005533,city set null
+transactions,missing_value,T00010819,city set null
+transactions,missing_value,T00010642,city set null
+transactions,missing_value,T00020727,city set null
+transactions,missing_value,T00017785,city set null
+transactions,missing_value,T00009602,city set null
+transactions,missing_value,T00001101,city set null
+transactions,missing_value,T00020764,city set null
+transactions,missing_value,T00004214,city set null
+transactions,missing_value,T00012211,city set null
+transactions,missing_value,T00006231,city set null
+transactions,missing_value,T00021146,city set null
+transactions,missing_value,T00018577,city set null
+transactions,missing_value,T00013912,city set null
+transactions,missing_value,T00009464,city set null
+transactions,missing_value,T00004727,city set null
+transactions,missing_value,T00012947,city set null
+transactions,missing_value,T00000113,city set null
+transactions,missing_value,T00018148,city set null
+transactions,missing_value,T00004925,city set null
+transactions,missing_value,T00002178,city set null
+transactions,missing_value,T00017079,city set null
+transactions,missing_value,T00001115,city set null
+transactions,missing_value,T00018330,city set null
+transactions,missing_value,T00008860,city set null
+transactions,missing_value,T00009424,city set null
+transactions,missing_value,T00017162,city set null
+transactions,missing_value,T00012311,city set null
+transactions,missing_value,T00017937,city set null
+transactions,missing_value,T00000667,city set null
+transactions,missing_value,T00015278,city set null
+transactions,missing_value,T00016735,city set null
+transactions,missing_value,T00015913,city set null
+transactions,missing_value,T00015312,city set null
+transactions,missing_value,T00011816,city set null
+transactions,missing_value,T00016717,city set null
+transactions,missing_value,T00014162,city set null
+transactions,missing_value,T00002858,city set null
+transactions,missing_value,T00006948,city set null
+transactions,missing_value,T00018248,city set null
+transactions,missing_value,T00013330,city set null
+transactions,missing_value,T00005660,city set null
+transactions,missing_value,T00021084,city set null
+transactions,missing_value,T00008827,city set null
+transactions,missing_value,T00001593,city set null
+transactions,missing_value,T00021159,city set null
+transactions,missing_value,T00007833,city set null
+transactions,missing_value,T00018404,city set null
+transactions,missing_value,T00021367,city set null
+transactions,missing_value,T00018269,city set null
+transactions,missing_value,T00005327,city set null
+transactions,missing_value,T00005618,city set null
+transactions,missing_value,T00000634,city set null
+transactions,missing_value,T00012987,city set null
+transactions,missing_value,T00012835,city set null
+transactions,missing_value,T00008583,city set null
+transactions,missing_value,T00005763,city set null
+transactions,missing_value,T00007925,city set null
+transactions,missing_value,T00010510,city set null
+transactions,missing_value,T00020719,city set null
+transactions,missing_value,T00002369,city set null
+transactions,missing_value,T00020625,city set null
+transactions,missing_value,T00005613,city set null
+transactions,missing_value,T00016876,city set null
+transactions,missing_value,T00020174,city set null
+transactions,missing_value,T00002969,city set null
+transactions,missing_value,T00001252,city set null
+transactions,missing_value,T00015294,city set null
+transactions,missing_value,T00007914,city set null
+transactions,missing_value,T00014895,city set null
+transactions,missing_value,T00020963,city set null
+transactions,missing_value,T00004724,city set null
+transactions,missing_value,T00000746,city set null
+transactions,missing_value,T00004665,city set null
+transactions,missing_value,T00012007,city set null
+transactions,missing_value,T00016491,city set null
+transactions,missing_value,T00018206,city set null
+transactions,missing_value,T00009794,city set null
+transactions,missing_value,T00016085,city set null
+transactions,missing_value,T00015647,city set null
+transactions,missing_value,T00013894,city set null
+transactions,missing_value,T00007930,city set null
+transactions,missing_value,T00005463,city set null
+transactions,missing_value,T00012401,city set null
+transactions,missing_value,T00003028,city set null
+transactions,missing_value,T00014894,city set null
+transactions,missing_value,T00012168,city set null
+transactions,missing_value,T00014574,city set null
+transactions,missing_value,T00008990,city set null
+transactions,missing_value,T00004557,city set null
+transactions,missing_value,T00003604,city set null
+transactions,missing_value,T00008030,city set null
+transactions,missing_value,T00005239,city set null
+transactions,missing_value,T00005544,city set null
+transactions,missing_value,T00010604,city set null
+transactions,missing_value,T00008044,city set null
+transactions,missing_value,T00007154,city set null
+transactions,missing_value,T00021616,city set null
+transactions,missing_value,T00013616,city set null
+transactions,missing_value,T00018754,city set null
+transactions,missing_value,T00020665,city set null
+transactions,missing_value,T00012938,city set null
+transactions,missing_value,T00018021,city set null
+transactions,missing_value,T00021376,city set null
+transactions,missing_value,T00011067,city set null
+transactions,missing_value,T00015619,city set null
+transactions,missing_value,T00012673,city set null
+transactions,missing_value,T00005453,city set null
+transactions,missing_value,T00010394,city set null
+transactions,missing_value,T00020143,city set null
+transactions,missing_value,T00021966,city set null
+transactions,missing_value,T00010584,city set null
+transactions,missing_value,T00009776,city set null
+transactions,missing_value,T00016967,city set null
+transactions,missing_value,T00001390,city set null
+transactions,missing_value,T00010243,city set null
+transactions,missing_value,T00017462,city set null
+transactions,missing_value,T00017579,city set null
+transactions,missing_value,T00010130,city set null
+transactions,missing_value,T00008886,city set null
+transactions,missing_value,T00003623,city set null
+transactions,missing_value,T00006289,city set null
+transactions,missing_value,T00014452,city set null
+transactions,missing_value,T00016751,city set null
+transactions,missing_value,T00015715,city set null
+transactions,missing_value,T00000353,city set null
+transactions,missing_value,T00021827,city set null
+transactions,missing_value,T00012344,city set null
+transactions,missing_value,T00001068,city set null
+transactions,missing_value,T00008820,city set null
+transactions,missing_value,T00005750,city set null
+transactions,missing_value,T00020970,city set null
+transactions,missing_value,T00020654,city set null
+transactions,missing_value,T00004881,city set null
+transactions,missing_value,T00017206,city set null
+transactions,missing_value,T00008511,city set null
+transactions,missing_value,T00014371,city set null
+transactions,missing_value,T00004142,city set null
+transactions,missing_value,T00020920,city set null
+transactions,missing_value,T00010034,city set null
+transactions,missing_value,T00000586,city set null
+transactions,missing_value,T00006458,city set null
+transactions,missing_value,T00016268,city set null
+transactions,missing_value,T00014083,city set null
+transactions,missing_value,T00010242,city set null
+transactions,missing_value,T00014918,city set null
+transactions,missing_value,T00013419,city set null
+transactions,missing_value,T00003811,city set null
+transactions,missing_value,T00001265,city set null
+transactions,missing_value,T00005126,city set null
+transactions,missing_value,T00001338,city set null
+transactions,missing_value,T00010334,city set null
+transactions,missing_value,T00005006,city set null
+transactions,missing_value,T00017563,city set null
+transactions,missing_value,T00000833,city set null
+transactions,missing_value,T00021902,city set null
+transactions,missing_value,T00011742,city set null
+transactions,missing_value,T00015587,city set null
+transactions,missing_value,T00015894,city set null
+transactions,missing_value,T00000751,city set null
+transactions,missing_value,T00002288,city set null
+transactions,missing_value,T00012710,city set null
+transactions,missing_value,T00012559,city set null
+transactions,missing_value,T00015753,city set null
+transactions,missing_value,T00007527,city set null
+transactions,missing_value,T00018742,city set null
+transactions,missing_value,T00021741,city set null
+transactions,missing_value,T00014690,city set null
+transactions,missing_value,T00011049,city set null
+transactions,missing_value,T00005379,city set null
+transactions,missing_value,T00015216,city set null
+transactions,missing_value,T00002685,city set null
+transactions,missing_value,T00021294,city set null
+transactions,missing_value,T00001821,city set null
+transactions,missing_value,T00013759,city set null
+transactions,missing_value,T00009111,city set null
+transactions,missing_value,T00017776,city set null
+transactions,missing_value,T00016478,city set null
+transactions,missing_value,T00011958,city set null
+transactions,missing_value,T00009341,city set null
+transactions,missing_value,T00007110,city set null
+transactions,missing_value,T00008665,city set null
+transactions,missing_value,T00005064,city set null
+transactions,missing_value,T00018573,city set null
+transactions,missing_value,T00021778,city set null
+transactions,missing_value,T00020108,city set null
+transactions,missing_value,T00002673,city set null
+transactions,missing_value,T00001568,city set null
+transactions,missing_value,T00017209,city set null
+transactions,missing_value,T00006586,city set null
+transactions,missing_value,T00011936,city set null
+transactions,missing_value,T00014236,city set null
+transactions,missing_value,T00009614,city set null
+transactions,missing_value,T00018988,city set null
+transactions,missing_value,T00015829,city set null
+transactions,missing_value,T00007173,city set null
+transactions,missing_value,T00012219,city set null
+transactions,missing_value,T00021726,city set null
+transactions,missing_value,T00021551,city set null
+transactions,missing_value,T00001268,city set null
+transactions,missing_value,T00000725,city set null
+transactions,missing_value,T00013866,city set null
+transactions,missing_value,T00021224,city set null
+transactions,missing_value,T00004206,city set null
+transactions,missing_value,T00013819,city set null
+transactions,missing_value,T00008034,city set null
+transactions,missing_value,T00015952,city set null
+transactions,missing_value,T00014185,city set null
+transactions,missing_value,T00007838,city set null
+transactions,missing_value,T00003131,city set null
+transactions,missing_value,T00005351,city set null
+transactions,missing_value,T00013715,city set null
+transactions,missing_value,T00005052,city set null
+transactions,missing_value,T00003889,city set null
+transactions,missing_value,T00013987,city set null
+transactions,missing_value,T00016789,city set null
+transactions,missing_value,T00005002,city set null
+transactions,missing_value,T00009059,city set null
+transactions,missing_value,T00013037,city set null
+transactions,missing_value,T00016107,city set null
+transactions,missing_value,T00013196,city set null
+transactions,missing_value,T00016305,city set null
+transactions,missing_value,T00000945,city set null
+transactions,missing_value,T00011465,city set null
+transactions,missing_value,T00010323,city set null
+transactions,missing_value,T00018234,city set null
+transactions,missing_value,T00016063,city set null
+transactions,missing_value,T00002977,city set null
+transactions,missing_value,T00017488,city set null
+transactions,missing_value,T00020932,city set null
+transactions,missing_value,T00014550,city set null
+transactions,missing_value,T00006067,city set null
+transactions,missing_value,T00016643,city set null
+transactions,missing_value,T00016182,city set null
+transactions,missing_value,T00012844,city set null
+transactions,missing_value,T00015730,city set null
+transactions,missing_value,T00002312,city set null
+transactions,missing_value,T00004984,city set null
+transactions,missing_value,T00014813,city set null
+transactions,missing_value,T00006074,city set null
+transactions,missing_value,T00021923,city set null
+transactions,missing_value,T00017181,city set null
+transactions,missing_value,T00001461,city set null
+transactions,missing_value,T00006701,city set null
+transactions,missing_value,T00005651,city set null
+transactions,missing_value,T00018193,city set null
+transactions,missing_value,T00008814,city set null
+transactions,missing_value,T00013267,city set null
+transactions,missing_value,T00017355,city set null
+transactions,missing_value,T00009234,city set null
+transactions,missing_value,T00003663,city set null
+transactions,missing_value,T00000179,city set null
+transactions,missing_value,T00003173,city set null
+transactions,missing_value,T00001121,city set null
+transactions,missing_value,T00012721,city set null
+transactions,missing_value,T00001255,city set null
+transactions,missing_value,T00012393,city set null
+transactions,missing_value,T00013273,city set null
+transactions,missing_value,T00012242,city set null
+transactions,missing_value,T00007061,city set null
+transactions,missing_value,T00019404,city set null
+transactions,missing_value,T00008738,city set null
+transactions,missing_value,T00002425,city set null
+transactions,missing_value,T00001064,city set null
+transactions,missing_value,T00008267,city set null
+transactions,missing_value,T00004254,city set null
+transactions,missing_value,T00000871,city set null
+transactions,missing_value,T00010338,city set null
+transactions,missing_value,T00021694,city set null
+transactions,missing_value,T00011571,city set null
+transactions,missing_value,T00014432,city set null
+transactions,missing_value,T00011209,city set null
+transactions,missing_value,T00003799,city set null
+transactions,missing_value,T00004620,city set null
+transactions,missing_value,T00003791,city set null
+transactions,missing_value,T00014722,city set null
+transactions,missing_value,T00015804,city set null
+transactions,missing_value,T00001802,city set null
+transactions,missing_value,T00005954,city set null
+transactions,missing_value,T00002120,city set null
+transactions,missing_value,T00016926,city set null
+transactions,missing_value,T00021776,city set null
+transactions,missing_value,T00015659,city set null
+transactions,missing_value,T00003145,city set null
+transactions,missing_value,T00009426,city set null
+transactions,missing_value,T00007902,city set null
+transactions,missing_value,T00011874,city set null
+transactions,missing_value,T00008577,city set null
+transactions,missing_value,T00020040,city set null
+transactions,missing_value,T00005267,city set null
+transactions,missing_value,T00020380,city set null
+transactions,missing_value,T00010434,city set null
+transactions,missing_value,T00019182,city set null
+transactions,missing_value,T00008384,city set null
+transactions,missing_value,T00014388,city set null
+transactions,missing_value,T00010586,city set null
+transactions,duplicate_row,T00021898,exact duplicate appended
+transactions,duplicate_row,T00004877,exact duplicate appended
+transactions,duplicate_row,T00004944,exact duplicate appended
+transactions,duplicate_row,T00008888,exact duplicate appended
+transactions,duplicate_row,T00011673,exact duplicate appended
+transactions,duplicate_row,T00009153,exact duplicate appended
+transactions,duplicate_row,T00005752,exact duplicate appended
+transactions,duplicate_row,T00007522,exact duplicate appended
+transactions,duplicate_row,T00008686,exact duplicate appended
+transactions,duplicate_row,T00013656,exact duplicate appended
+transactions,duplicate_row,T00021293,exact duplicate appended
+transactions,duplicate_row,T00012075,exact duplicate appended
+transactions,duplicate_row,T00016174,exact duplicate appended
+transactions,duplicate_row,T00018876,exact duplicate appended
+transactions,duplicate_row,T00018362,exact duplicate appended
+transactions,duplicate_row,T00017481,exact duplicate appended
+transactions,duplicate_row,T00018283,exact duplicate appended
+transactions,duplicate_row,T00006151,exact duplicate appended
+transactions,duplicate_row,T00020881,exact duplicate appended
+transactions,duplicate_row,T00020243,exact duplicate appended
+transactions,duplicate_row,T00003774,exact duplicate appended
+transactions,duplicate_row,T00014857,exact duplicate appended
+transactions,duplicate_row,T00007694,exact duplicate appended
+transactions,duplicate_row,T00001936,exact duplicate appended
+transactions,duplicate_row,T00020551,exact duplicate appended
+transactions,duplicate_row,T00008008,exact duplicate appended
+transactions,duplicate_row,T00005271,exact duplicate appended
+transactions,duplicate_row,T00014939,exact duplicate appended
+transactions,duplicate_row,T00015854,exact duplicate appended
+transactions,duplicate_row,T00012028,exact duplicate appended
+transactions,duplicate_row,T00003582,exact duplicate appended
+transactions,duplicate_row,T00013409,exact duplicate appended
+transactions,duplicate_row,T00014847,exact duplicate appended
+transactions,duplicate_row,T00000284,exact duplicate appended
+transactions,duplicate_row,T00013446,exact duplicate appended
+transactions,duplicate_row,T00004660,exact duplicate appended
+transactions,duplicate_row,T00014708,exact duplicate appended
+transactions,duplicate_row,T00001980,exact duplicate appended
+transactions,duplicate_row,T00011542,exact duplicate appended
+transactions,duplicate_row,T00005511,exact duplicate appended
+transactions,duplicate_row,T00010103,exact duplicate appended
+transactions,duplicate_row,T00021869,exact duplicate appended
+transactions,duplicate_row,T00001852,exact duplicate appended
+transactions,duplicate_row,T00006320,exact duplicate appended
+transactions,duplicate_row,T00017876,exact duplicate appended
+transactions,duplicate_row,T00006091,exact duplicate appended
+transactions,duplicate_row,T00019446,exact duplicate appended
+transactions,duplicate_row,T00008792,exact duplicate appended
+transactions,duplicate_row,T00010265,exact duplicate appended
+transactions,duplicate_row,T00012437,exact duplicate appended
+transactions,duplicate_row,T00012803,exact duplicate appended
+transactions,duplicate_row,T00000272,exact duplicate appended
+transactions,duplicate_row,T00007546,exact duplicate appended
+transactions,duplicate_row,T00010276,exact duplicate appended
+transactions,duplicate_row,T00004256,exact duplicate appended
+transactions,duplicate_row,T00020912,exact duplicate appended
+transactions,duplicate_row,T00017102,exact duplicate appended
+transactions,duplicate_row,T00019670,exact duplicate appended
+transactions,duplicate_row,T00001842,exact duplicate appended
+transactions,duplicate_row,T00002299,exact duplicate appended
+transactions,duplicate_row,T00006883,exact duplicate appended
+transactions,duplicate_row,T00019284,exact duplicate appended
+transactions,duplicate_row,T00003946,exact duplicate appended
+transactions,duplicate_row,T00018818,exact duplicate appended
+transactions,duplicate_row,T00017116,exact duplicate appended
+transactions,duplicate_row,T00006811,exact duplicate appended
+transactions,duplicate_row,T00018402,exact duplicate appended
+transactions,duplicate_row,T00015408,exact duplicate appended
+transactions,duplicate_row,T00020640,exact duplicate appended
+transactions,duplicate_row,T00018741,exact duplicate appended
+transactions,duplicate_row,T00018848,exact duplicate appended
+transactions,duplicate_row,T00009543,exact duplicate appended
+transactions,duplicate_row,T00011173,exact duplicate appended
+transactions,duplicate_row,T00020467,exact duplicate appended
+transactions,duplicate_row,T00009335,exact duplicate appended
+transactions,duplicate_row,T00000321,exact duplicate appended
+transactions,duplicate_row,T00007026,exact duplicate appended
+transactions,duplicate_row,T00001976,exact duplicate appended
+transactions,duplicate_row,T00006745,exact duplicate appended
+transactions,duplicate_row,T00010423,exact duplicate appended
+transactions,duplicate_row,T00001506,exact duplicate appended
+transactions,duplicate_row,T00014647,exact duplicate appended
+transactions,duplicate_row,T00001896,exact duplicate appended
+transactions,duplicate_row,T00003551,exact duplicate appended
+transactions,duplicate_row,T00009036,exact duplicate appended
+transactions,duplicate_row,T00014986,exact duplicate appended
+transactions,duplicate_row,T00015802,exact duplicate appended
+transactions,duplicate_row,T00001660,exact duplicate appended
+transactions,duplicate_row,T00000041,exact duplicate appended
+transactions,duplicate_row,T00001042,exact duplicate appended
+transactions,duplicate_row,T00002855,exact duplicate appended
+transactions,duplicate_row,T00000977,exact duplicate appended
+transactions,duplicate_row,T00016139,exact duplicate appended
+transactions,duplicate_row,T00004961,exact duplicate appended
+transactions,duplicate_row,T00003974,exact duplicate appended
+transactions,duplicate_row,T00016449,exact duplicate appended
+transactions,duplicate_row,T00018129,exact duplicate appended
+transactions,duplicate_row,T00015304,exact duplicate appended
+transactions,duplicate_row,T00014574,exact duplicate appended
+transactions,duplicate_row,T00015390,exact duplicate appended
+transactions,orphan_fk,T00001830,merchant_id=M9999
+transactions,orphan_fk,T00003218,merchant_id=M9999
+transactions,orphan_fk,T00008354,merchant_id=M9999
+transactions,orphan_fk,T00007016,merchant_id=M9999
+transactions,orphan_fk,T00011869,merchant_id=M9999
+transactions,orphan_fk,T00010762,merchant_id=M9999
+transactions,orphan_fk,T00018533,merchant_id=M9999
+transactions,orphan_fk,T00013609,merchant_id=M9999
+transactions,orphan_fk,T00015489,merchant_id=M9999
+transactions,orphan_fk,T00004803,merchant_id=M9999
+transactions,orphan_fk,T00017746,merchant_id=M9999
+transactions,orphan_fk,T00015951,merchant_id=M9999
+transactions,orphan_fk,T00020917,merchant_id=M9999
+transactions,orphan_fk,T00010578,merchant_id=M9999
+transactions,orphan_fk,T00018730,merchant_id=M9999
+transactions,orphan_fk,T00012150,merchant_id=M9999
+transactions,orphan_fk,T00007214,merchant_id=M9999
+transactions,orphan_fk,T00016852,merchant_id=M9999
+transactions,orphan_fk,T00002867,merchant_id=M9999
+transactions,orphan_fk,T00006726,merchant_id=M9999
+transactions,orphan_fk,T00014491,merchant_id=M9999
+transactions,orphan_fk,T00015233,merchant_id=M9999
+transactions,orphan_fk,T00013794,merchant_id=M9999
+transactions,orphan_fk,T00016365,merchant_id=M9999
+transactions,orphan_fk,T00019442,merchant_id=M9999
+transactions,orphan_fk,T00003986,merchant_id=M9999
+transactions,orphan_fk,T00019755,merchant_id=M9999
+transactions,orphan_fk,T00011627,merchant_id=M9999
+transactions,orphan_fk,T00012618,merchant_id=M9999
+transactions,orphan_fk,T00006338,merchant_id=M9999
+transactions,orphan_fk,T00018435,merchant_id=M9999
+transactions,orphan_fk,T00008225,merchant_id=M9999
+transactions,orphan_fk,T00019623,merchant_id=M9999
+transactions,orphan_fk,T00021103,merchant_id=M9999
+transactions,orphan_fk,T00008769,merchant_id=M9999
+transactions,orphan_fk,T00005912,merchant_id=M9999
+transactions,orphan_fk,T00021040,merchant_id=M9999
+transactions,orphan_fk,T00009953,merchant_id=M9999
+transactions,orphan_fk,T00021739,merchant_id=M9999
+transactions,orphan_fk,T00018081,merchant_id=M9999
+transactions,orphan_fk,T00008740,merchant_id=M9999
+transactions,orphan_fk,T00014249,merchant_id=M9999
+transactions,orphan_fk,T00012499,merchant_id=M9999
+transactions,orphan_fk,T00003254,merchant_id=M9999
+transactions,orphan_fk,T00019083,merchant_id=M9999
+transactions,orphan_fk,T00002078,merchant_id=M9999
+transactions,orphan_fk,T00009150,merchant_id=M9999
+transactions,orphan_fk,T00011588,merchant_id=M9999
+transactions,orphan_fk,T00015921,merchant_id=M9999
+transactions,orphan_fk,T00007461,merchant_id=M9999
+transactions,orphan_fk,T00000475,merchant_id=M9999
+transactions,orphan_fk,T00021591,merchant_id=M9999
+transactions,orphan_fk,T00003138,merchant_id=M9999
+transactions,orphan_fk,T00003738,merchant_id=M9999
+transactions,orphan_fk,T00010993,merchant_id=M9999
+transactions,orphan_fk,T00007495,merchant_id=M9999
+transactions,orphan_fk,T00013455,merchant_id=M9999
+transactions,orphan_fk,T00005274,merchant_id=M9999
+transactions,orphan_fk,T00013126,merchant_id=M9999
+transactions,orphan_fk,T00007072,merchant_id=M9999
+transactions,orphan_fk,T00012943,campaign_id=CMP999
+transactions,orphan_fk,T00018235,campaign_id=CMP999
+transactions,orphan_fk,T00006809,campaign_id=CMP999
+transactions,orphan_fk,T00002099,campaign_id=CMP999
+transactions,orphan_fk,T00017029,campaign_id=CMP999
+transactions,orphan_fk,T00013754,campaign_id=CMP999
+transactions,orphan_fk,T00004594,campaign_id=CMP999
+transactions,orphan_fk,T00009243,campaign_id=CMP999
+transactions,orphan_fk,T00014535,campaign_id=CMP999
+transactions,orphan_fk,T00015191,campaign_id=CMP999
+transactions,orphan_fk,T00011662,campaign_id=CMP999
+transactions,orphan_fk,T00016629,campaign_id=CMP999
+transactions,orphan_fk,T00017643,campaign_id=CMP999
+transactions,orphan_fk,T00000014,campaign_id=CMP999
+transactions,orphan_fk,T00011697,campaign_id=CMP999
+transactions,orphan_fk,T00013894,campaign_id=CMP999
+transactions,orphan_fk,T00015893,campaign_id=CMP999
+transactions,orphan_fk,T00002315,campaign_id=CMP999
+transactions,orphan_fk,T00013461,campaign_id=CMP999
+transactions,orphan_fk,T00000319,campaign_id=CMP999
+transactions,orphan_fk,T00006803,campaign_id=CMP999
+transactions,orphan_fk,T00008317,campaign_id=CMP999
+transactions,orphan_fk,T00016187,campaign_id=CMP999
+transactions,orphan_fk,T00018019,campaign_id=CMP999
+transactions,orphan_fk,T00002855,campaign_id=CMP999
+transactions,orphan_fk,T00015623,campaign_id=CMP999
+transactions,orphan_fk,T00021024,campaign_id=CMP999
+transactions,orphan_fk,T00017077,campaign_id=CMP999
+transactions,orphan_fk,T00000456,campaign_id=CMP999
+transactions,orphan_fk,T00004733,campaign_id=CMP999
+transactions,orphan_fk,T00003319,campaign_id=CMP999
+transactions,orphan_fk,T00013304,campaign_id=CMP999
+transactions,orphan_fk,T00004817,campaign_id=CMP999
+transactions,orphan_fk,T00006020,campaign_id=CMP999
+transactions,orphan_fk,T00020053,campaign_id=CMP999
+transactions,orphan_fk,T00004814,campaign_id=CMP999
+transactions,orphan_fk,T00021034,campaign_id=CMP999
+transactions,orphan_fk,T00014834,campaign_id=CMP999
+transactions,orphan_fk,T00004990,campaign_id=CMP999
+transactions,orphan_fk,T00014857,campaign_id=CMP999
+transactions,orphan_fk,T00010752,campaign_id=CMP999
+transactions,orphan_fk,T00007570,campaign_id=CMP999
+transactions,orphan_fk,T00020273,campaign_id=CMP999
+transactions,orphan_fk,T00019428,campaign_id=CMP999
+transactions,orphan_fk,T00000103,campaign_id=CMP999
+transactions,orphan_fk,T00008222,campaign_id=CMP999
+transactions,orphan_fk,T00021359,campaign_id=CMP999
+transactions,orphan_fk,T00001313,campaign_id=CMP999
+transactions,orphan_fk,T00008903,campaign_id=CMP999
+transactions,orphan_fk,T00006774,campaign_id=CMP999
+transactions,orphan_fk,T00015622,campaign_id=CMP999
+transactions,orphan_fk,T00010650,campaign_id=CMP999
+transactions,orphan_fk,T00009901,campaign_id=CMP999
+transactions,orphan_fk,T00010983,campaign_id=CMP999
+transactions,orphan_fk,T00010625,campaign_id=CMP999
+transactions,orphan_fk,T00002813,campaign_id=CMP999
+transactions,orphan_fk,T00013036,campaign_id=CMP999
+transactions,orphan_fk,T00001084,campaign_id=CMP999
+transactions,orphan_fk,T00003003,campaign_id=CMP999
+transactions,orphan_fk,T00003904,campaign_id=CMP999
+merchants,invalid_category,M0010,category='Electronic'
+merchants,invalid_category,M0001,category='Electronic'
+merchants,invalid_category,M0033,category=' fuel'
+merchants,invalid_category,M0039,category='Electronic'
+merchants,invalid_category,M0027,category='Electronic'
+merchants,invalid_category,M0050,category=' fuel'
+merchants,invalid_category,M0005,category='Diningg'
+merchants,invalid_category,M0008,category='Electronic'
+merchants,invalid_category,M0032,category='Diningg'
+merchants,invalid_category,M0015,category=' fuel'
+merchants,invalid_category,M0003,category='Diningg'
+merchants,invalid_category,M0054,category='Diningg'
+merchants,invalid_category,M0046,category='Diningg'
+merchants,invalid_category,M0007,category='Diningg'
+merchants,invalid_category,M0004,category=' fuel'
+merchants,invalid_category,M0018,category='TRAVEL'
+merchants,invalid_category,M0006,category='shoping'
+merchants,invalid_category,M0011,category=' fuel'
+merchants,invalid_category,M0028,category=' fuel'
+merchants,invalid_category,M0034,category='shoping'
+transactions,negative_amount,T00002275,amount made negative
+transactions,negative_amount,T00002058,amount made negative
+transactions,negative_amount,T00004255,amount made negative
+transactions,negative_amount,T00015285,amount made negative
+transactions,negative_amount,T00012820,amount made negative
+transactions,negative_amount,T00012377,amount made negative
+transactions,negative_amount,T00021962,amount made negative
+transactions,negative_amount,T00015157,amount made negative
+transactions,negative_amount,T00012017,amount made negative
+transactions,negative_amount,T00021103,amount made negative
+transactions,negative_amount,T00021179,amount made negative
+transactions,negative_amount,T00004339,amount made negative
+transactions,negative_amount,T00021328,amount made negative
+transactions,negative_amount,T00007885,amount made negative
+transactions,negative_amount,T00017811,amount made negative
+transactions,extreme_value,T00016222,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00016997,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00016255,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00008835,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00012130,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00000831,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00017243,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00004497,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00013809,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00001106,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00021093,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00013150,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00001387,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00015596,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00012721,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00018357,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00015304,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00007629,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00021665,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00018444,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00009046,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00012733,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00013879,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00011347,"amount inflated (kept, flag only)"
+transactions,extreme_value,T00001943,"amount inflated (kept, flag only)"
+transactions,bad_date,T00018445,date=2030-13-40
+transactions,bad_date,T00005306,date=2030-13-40
+transactions,bad_date,T00003338,date=2030-13-40
+transactions,bad_date,T00000181,date=2030-13-40
+transactions,bad_date,T00010420,date=2030-13-40
+transactions,bad_date,T00012513,date=2030-13-40
+transactions,bad_date,T00017503,date=2030-13-40
+transactions,bad_date,T00010188,date=2030-13-40
+transactions,bad_date,T00014443,date=2030-13-40
+transactions,bad_date,T00017340,date=2030-13-40

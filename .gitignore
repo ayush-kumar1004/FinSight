@@ -1,0 +1,30 @@
+# ---- secrets ----
+.env
+
+# ---- regenerable artifacts (rebuilt from config + src) ----
+data/raw/*.csv
+data/processed/*.csv
+db/*.db
+outputs/*.csv
+outputs/*.json
+outputs/*.md
+outputs/powerbi/*.csv
+
+# keep the folders in git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!db/.gitkeep
+!outputs/.gitkeep
+!outputs/powerbi/.gitkeep
+
+# ---- python ----
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# ---- os ----
+.DS_Store
+Thumbs.db
