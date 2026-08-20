@@ -152,6 +152,18 @@ visual/measure list are in [`dashboard/powerbi/README.md`](dashboard/powerbi/REA
 > model and full build instructions; opening Power BI and following them takes a
 > few minutes.
 
+## 14b. Screenshots
+
+Dashboard page screenshots live in `dashboard/powerbi/screenshots/`:
+
+| Page | File |
+|---|---|
+| Overview | `screenshots/page1_overview.png` |
+| Customer Analytics | `screenshots/page2_customers.png` |
+| Campaign Analytics | `screenshots/page3_campaigns.png` |
+
+_(Add your exported PNGs there; they render here once pushed to GitHub.)_
+
 ## 15. Excel Analysis
 
 `excel/FinSight_Analytics.xlsx` (built by `excel/build_excel.py`) is a small
