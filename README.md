@@ -154,15 +154,17 @@ visual/measure list are in [`dashboard/powerbi/README.md`](dashboard/powerbi/REA
 
 ## 14b. Screenshots
 
-Dashboard page screenshots live in `dashboard/powerbi/screenshots/`:
+**Overview**
 
-| Page | File |
-|---|---|
-| Overview | `screenshots/page1_overview.png` |
-| Customer Analytics | `screenshots/page2_customers.png` |
-| Campaign Analytics | `screenshots/page3_campaigns.png` |
+![Overview page](dashboard/powerbi/screenshots/page1_overview.jpg)
 
-_(Add your exported PNGs there; they render here once pushed to GitHub.)_
+**Customer Analytics**
+
+![Customer Analytics page](dashboard/powerbi/screenshots/page2_customers.jpg)
+
+**Campaign Analytics**
+
+![Campaign Analytics page](dashboard/powerbi/screenshots/page3_campaigns.jpg)
 
 ## 15. Excel Analysis
 
